@@ -10,4 +10,5 @@ E:\education\VideOffice\VideOffice\obj\Debug\VideOffice.Properties.Resources.res
 E:\education\VideOffice\VideOffice\obj\Debug\VideOffice.csproj.GenerateResource.Cache
 E:\education\VideOffice\VideOffice\obj\Debug\VideOffice.exe
 E:\education\VideOffice\VideOffice\obj\Debug\VideOffice.pdb
-E:\education\VideOffice\VideOffice\obj\Debug\VideOffice.csprojResolveAssemblyReference.cache
+E:\education\VideOffice\VideOffice\bin\Debug\VideOffice.exe.CodeAnalysisLog.xml
+E:\education\VideOffice\VideOffice\bin\Debug\VideOffice.exe.lastcodeanalysissucceeded
