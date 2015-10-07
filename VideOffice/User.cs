@@ -8,5 +8,5 @@ namespace VideOffice
 {
     public class User
     {
-    
+    }
 }
