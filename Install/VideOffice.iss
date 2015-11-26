@@ -28,7 +28,7 @@ Name: "ukrainian"; MessagesFile: "compiler:Languages\Ukrainian.isl";
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "..\VideOffice\bin\Debug\DownloadManager.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "..\VideOffice\bin\Debug\VideOffice.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "..\VideOffice\bin\Debug\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Code]
