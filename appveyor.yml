@@ -50,8 +50,8 @@ artifacts:
   type: WebDeployPackage
 deploy:
 - provider: GitHub
-  tag: VideOffice-v$(appveyor_tag_version)
-  release: VideOffice-v$(appveyor_tag_version)
+  tag: $(appveyor_tag_version)
+  release: $(appveyor_tag_version)
   description: VideOffice Release from AppVeyor
   auth_token:
     secure: ZjkHlkSYF+1A2xfv8oVVupjQMKjJo51/CldzdQEsifZJGGSF8/jrR+g4OTfSc8SJ
