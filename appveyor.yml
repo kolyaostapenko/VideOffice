@@ -44,7 +44,7 @@ build:
   include_nuget_references: true
   verbosity: minimal
 after_build:
-- cmd: packages\Tools.InnoSetup.5.5.6\tools\ISCC Install\DownloadManager.iss
+- cmd: packages\Tools.InnoSetup.5.5.6\tools\ISCC Install\VideOffice.iss
 artifacts:
 - path: VideOffice\Install\Installer
   type: WebDeployPackage
