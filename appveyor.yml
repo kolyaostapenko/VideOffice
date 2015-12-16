@@ -56,6 +56,3 @@ deploy:
   auth_token:
     secure: ZjkHlkSYF+1A2xfv8oVVupjQMKjJo51/CldzdQEsifZJGGSF8/jrR+g4OTfSc8SJ
   artifact: VideOffice\Install\Installer.zip
-  on:
-    branch: master
-    appveyor_repo_tag: true
