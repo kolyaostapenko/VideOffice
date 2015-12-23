@@ -9,9 +9,9 @@ before_build:
 
     $InstallScript = get-content Install\VideOffice.iss
 
-    $VerFromAssemblyInfo[2][27]
+    $VerFromAssemblyInfo[2][3]
 
-    $i = 27
+    $i = 3
 
     $verString = ""
 
